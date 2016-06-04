@@ -45,3 +45,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.opensdf
+.vs/DayFunctions/v14/.suo
+*.sdf
+*.obj
+DayFunctions/Debug/DayFunctions.tlog/CL.command.1.tlog
+*.tlog
+DayFunctions/Debug/vc140.idb
+*.pdb
+*.exe
+Debug/DayFunctions.ilk
